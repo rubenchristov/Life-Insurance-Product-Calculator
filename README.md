@@ -35,4 +35,4 @@ Using the sum assured, mortality assumptions, and effective interest rate, the c
 
 Under the equivalence principle, the expected value of premiums (money coming in to the insurer) must match the expected value of benefits (money coming out). Thus, the calculator will output a Net Single Premium, assumed to be paid at time 0, that equals the latter.
 
-The calculator also provides the option of regular premium and benefit payments instead of a single amount. To account for this, multiple annuity-due factors are computed, including whole life and temporary annuity-dues for premium conversion, as well as certain annuity-due for benefit conversion.
+The calculator also provides the option of regular premium and benefit payments instead of a single amount. To account for this, multiple annuity-due factors are computed, including whole life and temporary annuity-dues for premium conversion, as well as certain annuity-due for benefit conversion. When applicable, the Net Single Premium and the Sum Assured will be divided by the appropriate annuity factor to obtain the exact level amount.
