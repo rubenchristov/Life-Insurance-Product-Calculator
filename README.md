@@ -29,6 +29,7 @@ The full list of currently supported inputs are as follows:
 - Current policyholder age/Age at policy inception is assumed to be Age at Last Birthday
 - Expenses and fees are currently not included in the calculations.
 - Lapses and withdrawals are also currently not included.
+- Mortality table selection currently only include a very limited number of options.
 
 ### Methodology
 Using the sum assured, mortality assumptions, and effective interest rate, the calculator finds the expected present value of the benefits (sum assured), by considering all the possible timings where the benefits can be paid out and their corresponding probabilities of occurring. Afterwards, each of these possible benefits are discounted back to policy inception (time 0) using the discount factor.
